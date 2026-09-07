@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PATH": ".claude/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  },
+  "sandbox": {
+    "enabled": true,
+    "failIfUnavailable": true
+  }
+}
